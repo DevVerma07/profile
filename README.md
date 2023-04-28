@@ -61,6 +61,10 @@
 
 <h2>🤝 Let's connect</h2>
 
+- LinkedIn: [devverma07](https://www.linkedin.com/in/devverma07/)
+- Twitter: [@DevVerma07](https://twitter.com/DevVerma07)
+- Personal website: [https://devverma.tech/](https://devverma.tech/)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/devverma07/" target="_blank"><img src="https://img.shields.io/badge/-devverma07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devverma07/"></a>
   <a href="https://twitter.com/DevVerma07" target="_blank"><img src="https://img.shields.io/twitter/follow/DevVerma07?label=Follow&style=social"></a>
