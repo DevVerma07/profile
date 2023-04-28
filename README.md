@@ -59,6 +59,9 @@
 
 <hr>
 
+## GitHub streak
+![Dev Verma's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=devverma07&theme=radical)
+
 <h2>🤝 Let's connect</h2>
 
 - LinkedIn: [devverma07](https://www.linkedin.com/in/devverma07/)
