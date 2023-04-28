@@ -60,16 +60,18 @@
 <hr>
 
 ## GitHub streak
-![Dev Verma's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=devverma07&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVerma07" alt="DevVerma07's GitHub Streak" />
+</p>
+
 
 <h2>🤝 Let's connect</h2>
 
-- LinkedIn: [devverma07](https://www.linkedin.com/in/devverma07/)
-- Twitter: [@DevVerma07](https://twitter.com/DevVerma07)
-- Personal website: [https://devverma.tech/](https://devverma.tech/)
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/devverma07/" target="_blank"><img src="https://img.shields.io/badge/-devverma07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devverma07/"></a>
-  <a href="https://twitter.com/DevVerma07" target="_blank"><img src="https://img.shields.io/twitter/follow/DevVerma07?label=Follow&style=social"></a>
-  <a href="https://devverma.tech/" target="_blank"><img src="https://img.shields.io/badge/-devverma.tech-black?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://devverma.tech/"></a>
+
+  [![LinkedIn Badge](https://img.shields.io/badge/-devverma07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devverma07/)](https://www.linkedin.com/in/devverma07/)
+[![Twitter Badge](https://img.shields.io/badge/-@DevVerma07-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DevVerma07)](https://twitter.com/DevVerma07)
+[![Website Badge](https://img.shields.io/badge/-devverma.tech-black?style=flat-square&logo=firefox&logoColor=white&link=https://devverma.tech/)](https://devverma.tech/)
+
 </p>
