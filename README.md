@@ -62,16 +62,17 @@
 ## GitHub streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVerma07" alt="DevVerma07's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevVerma07&layout=compact&theme=algolia" alt="DevVerma07's GitHub Streak" />
 </p>
 
 
 <h2>🤝 Let's connect</h2>
 
 <p align="center">
-
   [![LinkedIn Badge](https://img.shields.io/badge/-devverma07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devverma07/)](https://www.linkedin.com/in/devverma07/)
+  
 [![Twitter Badge](https://img.shields.io/badge/-@DevVerma07-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DevVerma07)](https://twitter.com/DevVerma07)
+  
 [![Website Badge](https://img.shields.io/badge/-devverma.tech-black?style=flat-square&logo=firefox&logoColor=white&link=https://devverma.tech/)](https://devverma.tech/)
 
 </p>
